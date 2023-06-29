@@ -1,0 +1,15 @@
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net7.0/BuilderDesignPattern
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net7.0/BuilderDesignPattern.deps.json
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net7.0/BuilderDesignPattern.runtimeconfig.json
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net7.0/BuilderDesignPattern.dll
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/bin/Debug/net7.0/BuilderDesignPattern.pdb
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.csproj.AssemblyReference.cache
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.AssemblyInfoInputs.cache
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.AssemblyInfo.cs
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.csproj.CoreCompileInputs.cache
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.dll
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/refint/BuilderDesignPattern.dll
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.pdb
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/BuilderDesignPattern.genruntimeconfig.cache
+/Users/santa/Projects/BuilderDesignPattern/BuilderDesignPattern/obj/Debug/net7.0/ref/BuilderDesignPattern.dll
